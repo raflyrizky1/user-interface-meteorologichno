@@ -18,3 +18,6 @@ Before creating the user interface design of the Meteorologichno application, we
 
 • User Interface
 
+• Navigation Map
+
+![Project_NavMap](https://user-images.githubusercontent.com/106465570/170858293-d7b9f955-9038-4026-a95c-4ec13444685a.png)
